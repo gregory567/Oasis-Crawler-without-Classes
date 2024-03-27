@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677178453 source:c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler ohne klassen\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+
